@@ -1,0 +1,34 @@
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\bin\Debug\Doctor- Help.exe
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\bin\Debug\Doctor- Help.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.med_details_p.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.login.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.profile_p.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.profile_d.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.pers_details_d.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.doc_details.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor- Help.exe
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor- Help.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.dept_list_p.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.doc_list_p.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.Registration.resources
+c:\users\admin\documents\visual studio 2010\Projects\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.pers_details_p.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor- Help.exe
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor- Help.pdb
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor- Help.csprojResolveAssemblyReference.cache
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.dept_list_p.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.Registration.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.pers_details_p.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.med_details_p.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.login.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.profile_p.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.profile_d.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.pers_details_d.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.doc_details.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor__Help.Properties.Resources.resources
+G:\Studies\Doctor- Help\Doctor- Help\obj\x86\Debug\Doctor- Help.csproj.GenerateResource.Cache
+G:\Studies\Doctor- Help\Doctor- Help\bin\Debug\Doctor- Help.exe
+G:\Studies\Doctor- Help\Doctor- Help\bin\Debug\Doctor- Help.pdb
